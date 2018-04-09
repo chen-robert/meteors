@@ -1,0 +1,12 @@
+main: meteor.Main
+name: Meteors
+version: 1.0
+author: Robert Chen
+description: Allows for summoning of meteors
+commands:
+  meteor:
+    description: Summons a meteor.
+    usage: /meteor [name]
+  meteordrops:
+    description: Shows the meteor drops.
+    usage: /meteordrops [name]
