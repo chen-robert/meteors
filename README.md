@@ -8,5 +8,5 @@ A Minecraft plugin that allows for summoning of meteors.
   
 /meteordrops [name] shows the meteor drops for that name.
 
-#Download
+# Download
 Copy the jar file from the lib folder and paste it in "plugins".
